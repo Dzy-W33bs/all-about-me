@@ -1,0 +1,50 @@
+
+
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 5px blue;
+}
+.slider h5{
+    color: blue;
+}
+
+.parallax-container{
+    height: 10%;
+}
+
+.client .container img {
+    width: 150px;
+}
+
+.client h3 {
+}
+
+article {
+    padding-top: .1px;
+}
+
+.bini img {
+    margin-top: 15px;
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, .5);
+    border-radius: 5px;
+}
+
+.contact {
+    padding-bottom: 50px;
+}
+
+.alamat {
+    box-shadow: 1px 1px 7px rgb(0, 0, 0, .5);
+}
+
+.kirim {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 2px;
+    font-weight: bold;
+    
+}
+
+
+
